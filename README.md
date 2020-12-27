@@ -1,5 +1,9 @@
-# CienciaDeDadosPrimeirosPassos
+# Ciencia De Dados Primeiros Passos
 Primeiros passos para ciencia de dados da formação Data science Alura
+
+# Descrição 
+Analisando os dados da movie Lens e do  TMDB 5000
+
 
 ## habilidades aprendidas:
 
